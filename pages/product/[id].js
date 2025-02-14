@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import { Button } from "@/components/ui/button";
+import { Button } from "../../components/ui/button";
 
 const products = [
   { id: 1, name: "Кепка Classic Black", price: "899₴", image: "/cap1.jpg" },
